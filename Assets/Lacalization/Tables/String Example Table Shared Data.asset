@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: String Example Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: String Example Table
+  m_TableCollectionNameGuidString: ca9ee16bd55a7b94e8bf1c7147046de2
+  m_Entries:
+  - m_Id: 12618887168
+    m_Key: Menu_InstallationInstructions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723297562624
+    m_Key: Menu_Confidentiality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1469023842304
+    m_Key: Menu_ModScreen_AvailableVersions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2019824037888
+    m_Key: Menu_ModScreen_Download
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10730747523072
+    m_Key: BlockMessage_DownloadAfterAdvertisement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11391111327744
+    m_Key: BlockMessage_AvailableVersions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244809841569792
+    m_Key: BlockMessage_Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244938292129792
+    m_Key: BlockMessage_Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 250469807353856
+    m_Key: Menu_InstallationInstructions_Content
+    m_Metadata:
+      m_Items: []
+  - m_Id: 250733515829248
+    m_Key: Menu_Confidentiality_Content
+    m_Metadata:
+      m_Items: []
+  - m_Id: 255166865797120
+    m_Key: Menu_ModScreen_Content
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1660766272049

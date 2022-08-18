@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22526ac1aa522d6448fd24c542d25a58, type: 3}
+  m_Name: Alert
+  m_EditorClassIdentifier: 
+  DownloadFile: 
+  LocalizedMessage:
+    m_TableReference:
+      m_TableCollectionName: GUID:ca9ee16bd55a7b94e8bf1c7147046de2
+    m_TableEntryReference:
+      m_KeyId: 11391111327744
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  Confirmation:
+    m_TableReference:
+      m_TableCollectionName: GUID:ca9ee16bd55a7b94e8bf1c7147046de2
+    m_TableEntryReference:
+      m_KeyId: 244809841569792
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 1
